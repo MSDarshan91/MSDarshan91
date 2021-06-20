@@ -4,8 +4,7 @@ I'm a Data Engineer working in an Ad-Tech company in Berlin, Germany.
 
 - 🏢   I'm currently working at **Verve Group Europe GmbH**
 - 🔧   I use daily `python`,`scala`,`bash`,`dataproc`,`airflow`,`bigquery`,`gcp` and `aws`.
-- 🌱   I’m currently learning about building Micro SaaS products.
-- 🚀   I built [Tweet Indic](https://tweet-indic.herokuapp.com/).
+
 
 ### ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
