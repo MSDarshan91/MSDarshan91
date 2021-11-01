@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Data Engineer working in an Ad-Tech company in Berlin, Germany.
+I'm a Data Engineer working in an Food-Tech company in Berlin, Germany.
 
-- 🏢   I'm currently working at **Verve Group Europe GmbH**
+- 🏢   I'm currently working at **Curb Food**
 - 🔧   I use daily `python`,`scala`,`bash`,`dataproc`,`airflow`,`bigquery`,`gcp` and `aws`.
 
 
