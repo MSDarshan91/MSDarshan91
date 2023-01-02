@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Data Engineer working in an Food-Tech company in Berlin, Germany.
+I'm a Data Engineer working in an Retail-Tech company in Germany.
 
-- 🏢   I'm currently working at **Curb Food**
+- 🏢   I'm currently working at **Wunderflats**
 - 🔧   I use daily `python`,`scala`,`bash`,`dataproc`,`airflow`,`bigquery`,`gcp` and `aws`.
 
 
